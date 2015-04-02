@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\pre-dexed\debug\classes-73df277d579dc068234e0c4d2f015308b70747f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\pre-dexed\debug\classes-8ff987dce7349156626073dfb63a5bd5550e143c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-cfd1def89b67601962fd1f0afb45103be1dccce1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Tim\AndroidstudioProjects\AndroidLabb1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-17ae0c9fc7eede3eb4f520d413d39c23d4e05189.jar" />
+    </item>
+
+</items>
